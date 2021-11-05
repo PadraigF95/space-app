@@ -1,0 +1,31 @@
+.Header{
+    background-color:#fff;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.Navigation .nav-links{
+    list-style-type: none;
+    padding-left: 20%;
+}
+
+.Navigation .nav-links li{
+  display:  inline-block;
+  align-items: center;
+  padding: 30px;
+  letter-spacing: 5px;
+}
+
+.Navigation .nav-links li a{
+  text-decoration: none;
+  padding: 5px 5px;
+  color: black;
+  font-size: 10px;
+  font-weight: 200;
+  
+}
+
+.Navigation .nav-links li :hover{
+  text-decoration: underline;
+}
