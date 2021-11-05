@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("background-home-desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+}
+
+.third-sentence{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.dot {
+    
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.explore{
+    
+}
